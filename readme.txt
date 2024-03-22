@@ -1,1 +1,0 @@
-"Experience classic arcade fun with this 2D ping pong game crafted using HTML, CSS, and JavaScript, featuring dynamic paddle controls and realistic ball physics."
